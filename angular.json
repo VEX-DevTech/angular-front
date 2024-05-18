@@ -10,7 +10,7 @@
           "standalone": false
         },
         "@schematics/angular:directive": {
-          "standalone": false
+          "standalone": false 
         },
         "@schematics/angular:pipe": {
           "standalone": false
@@ -37,7 +37,8 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+            ]
           },
           "configurations": {
             "production": {
@@ -96,7 +97,9 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/index-pago-plus.js"
+            ]
           }
         }
       }

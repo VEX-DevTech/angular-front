@@ -1,0 +1,7 @@
+.nav-divider {
+    height: 40px; /* Ajusta la altura según sea necesario */
+    width: 2px; /* Ancho del divisor */
+    background-color: #ccc; /* Color del divisor */
+    margin: 0 10px; /* Espaciado alrededor del divisor */
+    align-self: center; /* Centra verticalmente el divisor */
+  }
